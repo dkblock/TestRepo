@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         public Class2()
         {
-
+            var x = 10;
         }
     }
 }
